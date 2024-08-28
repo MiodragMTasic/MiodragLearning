@@ -2,7 +2,7 @@
 
 This library provides various functions for probability theory and information theory calculations, including probability bounds, load balancing, sampling, SAT problems, entropy calculations, and decision tree algorithms.
 
-Based on Assignment 1 for an AI(lv.2) course I had taken during the summer of 2024.
+Based on the first assignment for an AI(lv.2) course I had taken during the summer of 2024.
 
 ## Installation
 
