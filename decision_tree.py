@@ -7,7 +7,6 @@ Author: Miodrag Tasic
 Date: 2024-08-28
 """
 
-import pandas as pd
 import numpy as np
 
 def calculateEntropyOfConceptColumn(data: list, column: int) -> float:
