@@ -30,9 +30,8 @@ print(f"Entropy of the biased die: {die_entropy}")
 
 For more detailed usage instructions and examples, please refer to the documentation of each module.
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
+## ID3 Algorithm
+Um.. not great in the current version. If you can find the fix feel free to submit a Pull request !
 
 ## License
 
