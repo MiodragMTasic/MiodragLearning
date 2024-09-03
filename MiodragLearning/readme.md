@@ -1,4 +1,4 @@
-# Probability Theory Library
+# MiodragLearning Library
 
 This library provides various functions for probability theory and information theory calculations, including probability bounds, load balancing, sampling, SAT problems, entropy calculations, and decision tree algorithms.
 
@@ -7,7 +7,7 @@ This library provides various functions for probability theory and information t
 You can install this library using pip:
 
 ```
-pip install probability_theory_lib
+pip install miodraglearning
 ```
 
 ## Usage
